@@ -3,6 +3,7 @@
 - Not restricted videos are downloaded only.
 - Only Progressive Downloads are possible
 - Max Quality present 720p.
+- GUI made by Tkinter module.
 
 ### Screen Shots
 - Main Window
